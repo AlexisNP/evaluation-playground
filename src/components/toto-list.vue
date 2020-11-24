@@ -19,7 +19,7 @@ export default {
   props: {
     items: Array
   },
-  component: {
+  components: {
     'toto-item': TotoItem
   }
 }
