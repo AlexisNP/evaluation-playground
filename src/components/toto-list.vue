@@ -15,7 +15,7 @@
 import TotoItem from './toto-item'
 
 export default {
-  name: 'toto-item',
+  name: 'totos-list',
   props: {
     items: Array
   },
